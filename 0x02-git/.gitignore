@@ -3,4 +3,5 @@ $ cat .gitignore
     /*
     !/foo
     /foo/*
-    !/foo/bar
+   /foo/bar
+   index.html~
